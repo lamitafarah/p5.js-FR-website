@@ -34,11 +34,12 @@ Methods: Méthodes
 Fields: Champs
 Parameters: Paramètres
 Related References: Références associées
-Related Examples: Examples
+Related Examples: Exemples
 Donate to p5.js: Faire un don à p5.js
 Download p5.js: Télécharger p5.js
 No Results: Aucun résultat trouvé pour votre recherche
 No alt text: Pas de texte alternatif
+
 briefPageDescriptions:
   Reference: Retrouvez des explications simples pour chaque élément de code p5.js
   p5.sound Reference: Une extension de p5.js avec des fonctionnalités Web Audio comprenant l'entrée audio, la lecture, l'analyse et la synthèse sonore.
