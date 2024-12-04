@@ -52,3 +52,29 @@ briefPageDescriptions:
   Libraries: Étendez les possibilités de p5.js avec des librairies créées par la communauté.
   About: Découvrez la mission, les valeurs et les personnes qui se cachent derrière p5.js.
   People: Faites connaissance avec l'équipe de p5.js.
+referenceCategories:
+  modules:
+    Math: Mathématiques
+    Color: Couleur
+    Shape: Forme
+    DOM: DOM
+    Constants: Constantes
+    Image: Image
+    Environment: Environnement
+    Typography: Typographie
+  submodules:
+    Calculation: Calculs
+    Trigonometry: Trigonométrie
+    Creating & Reading: Création & Lecture
+    2D Primitives: Primitives 2D
+    Setting: Réglages
+    DOM: DOM
+    Constants: Constantes
+    Pixels: Pixels
+    Image: Image
+    Vector: Vecteur
+    Environment: Environnement
+    Attributes: Attributs
+    Loading & Displaying: Chargement et Affichage
+    Noise: Bruit
+    Random: Aléatoire
