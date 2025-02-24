@@ -1,0 +1,80 @@
+Home: Accueil
+Menu: Menu
+Reference: Référence
+Tutorials: Tutoriels
+Examples: Exemples
+Contribute: Contribuer
+Community: Communauté
+About: À propos
+Start Coding: Démarrer
+Donate: Donner
+Download: Installer
+Accessibility: Accessibilité
+Search: Rechercher
+Filter by keyword: Filtrer par mot-clé
+Jump To: Accéder à
+Resources: Ressources
+Information: Information
+Socials: Réseaux sociaux
+Contact: Contact
+Copyright: Copyright
+Privacy Policy: Politique de confidentialité
+Terms of Use: Conditions d'utilisation
+Forum: Forum
+Sketches: Croquis
+Libraries: Librairies
+Events: Événements
+People: L'équipe
+View Alt Text: Voir le texte alternatif
+Monochrome Mode: Mode monochrome
+Dark Mode: Mode sombre
+Reduced Motion: Réduire les mouvements
+Syntax: Syntaxe
+Methods: Méthodes
+Fields: Champs
+Parameters: Paramètres
+Related References: Références associées
+Related Examples: Exemples
+Donate to p5.js: Faire un don à p5.js
+Download p5.js: Télécharger p5.js
+No Results: Aucun résultat trouvé pour votre recherche
+No alt text: Pas de texte alternatif
+
+briefPageDescriptions:
+  Reference: Obtenez des explications simples pour chaque élément de code p5.js
+  p5.sound Reference: Une extension de p5.js avec des fonctionnalités Web Audio comprenant l'entrée audio, la lecture, l'analyse et la synthèse sonore.
+  Examples: Explorez les possibilités avec des exemples simples.
+  Tutorials: Démarrez à zéro ou améliorez vos compétences avec des leçons étape par étape.
+  Contribute: Impliquez-vous dans p5.js - créez, codez, documentez, donnez, enseignez, et plus encore !
+  Community: Découvrez ce que font des personnes à travers le monde avec p5.js et partagez vos créations.
+  Sketches: Inspirez-vous des croquis de la communauté p5.js.
+  Events: Découvrez comment p5.js rassemble les gens - ou organisez votre propre événement.
+  Libraries: Étendez les possibilités de p5.js avec des librairies créées par la communauté.
+  About: Découvrez la mission, les valeurs et les personnes qui se cachent derrière p5.js.
+  People: Faites connaissance avec l'équipe de p5.js.
+referenceCategories:
+  modules:
+    Math: Mathématiques
+    Color: Couleur
+    Shape: Forme
+    DOM: DOM
+    Constants: Constantes
+    Image: Image
+    Environment: Environnement
+    Typography: Typographie
+  submodules:
+    Calculation: Calculs
+    Trigonometry: Trigonométrie
+    Creating & Reading: Création & Lecture
+    2D Primitives: Primitives 2D
+    Setting: Réglages
+    DOM: DOM
+    Constants: Constantes
+    Pixels: Pixels
+    Image: Image
+    Vector: Vecteur
+    Environment: Environnement
+    Attributes: Attributs
+    Loading & Displaying: Chargement et Affichage
+    Noise: Bruit
+    Random: Aléatoire
