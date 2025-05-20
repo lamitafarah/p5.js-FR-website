@@ -1,0 +1,32 @@
+---
+featuredImage: "../../../images/featured/02_Animation_And_Variables-03_Conditions-thumbnail.png"
+featuredImageAlt: Un petit cercle noir sur un chemin en forme de treillis arc-en-ciel, sur un fond rayé gris et blanc.
+title: Conditions
+oneLineDescription: Utilisez les instructions if et else pour prendre des décisions pendant l'exécution de votre croquis.
+---
+
+Les instructions if et else permettent à un
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/block" target="_blank">bloc de code</a>
+de s'exécuter uniquement lorsqu'une certaine condition est vraie.Dans cet exemple, l'animation 
+ne se déclenche que lorsque la souris est maintenue enfoncée. Cela est dû à l'instruction if 
+située à la ligne 59.Vous pouvez en savoir plus sur les instructions if et else
+<a href="https://p5js.org/reference/p5/if">dans la référence p5</a>
+our sur <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals" target="_blank">on MDN</a>.
+
+Les opérateurs de comparaison permettent de créer des conditions en comparant deux valeurs
+Dans cet exemple, la teinte du cercle est réinitialisée à zéro lorsque sa valeur atteint au 
+moins 360, grâce à l'instruction if située à la ligne 69.
+Vous pouvez en savoir plus sur les opérateurs de comparaison
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#relational_operators" target="_blank">sur MDN</a>.
+
+Les opérateurs logiques permettent de combiner des conditions.
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_AND" target="_blank">&amp;&amp;</a>
+vérifie que les deux conditions sont vraies. Le cercle dans cet exemple
+a un remplissage noir lorsqu'il se trouve vers le centre horizontal de la toile, et un remplissage blanc lorsqu'il est ailleurs.
+Cela est dû à l'instruction if située à la ligne 45, qui vérifie que la position x 
+du cercle est d'au moins 100 et d'au plus 300.
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_OR" target="_blank">||</a>
+vérifie qu'au moins une des conditions est vraie.
+Le cercle inverse sa vitesse horizontale lorsqu'il atteint le bord gauche ou droit de la toile, grâce à l'instruction if située à la ligne 75.
+
+
